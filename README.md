@@ -1,7 +1,8 @@
-Uncharted Lands Planet Pack
+Uncharted Lands Rekerjiggered Planet Pack
 ==============================
 
-Created by: KillAshley (ashleydavies@live.co.uk)
+Created by: KillAshley (ashleydavies@live.co.uk)    
+Fork by: GregroxMun (unperpetualmotionmachine@gmail.com)
 
 Contributors:
 - Thomas P		(advice and tweaks)
