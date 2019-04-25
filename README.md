@@ -5,6 +5,8 @@ Created by: KillAshley (ashleydavies@live.co.uk)
 Fork by: GregroxMun (unperpetualmotionmachine@gmail.com)
 
 Contributors:
+- KillAshley    (original mod developer)
+- GregroxMun    (mod rekerjiggerer and fan)
 - Thomas P		(advice and tweaks)
 - Sigma88		(advice & support)
 
@@ -30,7 +32,3 @@ This should be all you are required to do for a basic install.
 PLEASE REMEMBER TO BACKUP YOUR SAVEGAMES BEFORE INSTALLATION/UPDATING AS BUGS CAN & SOMETIMES DO OCCUR.
 
 If you need to reset your ships landed on planets before/after updating, please use hyperedit as it makes resetting them simple and easy.
-
-Optional Extras
----------------
-Soon™
